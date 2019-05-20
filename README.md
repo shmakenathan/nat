@@ -29,8 +29,7 @@ public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: Voici mon lien Linkdin : https://www.linkedin.com/in/nathan-chicha-0b3264185/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: ratus/projet_1.png
